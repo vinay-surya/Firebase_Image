@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText et_religion;
 
 
-
+// ranjeet
     private EditText et_name;
     private EditText et_email;
     private EditText et_password;
