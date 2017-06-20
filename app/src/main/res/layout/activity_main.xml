@@ -695,13 +695,7 @@
                     android:textSize="20sp"
                     android:onClick="btnShowListImage_Click"/>
 
-                <Button
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="Show list image"
-                    android:textSize="20sp"
-                    android:onClick="btnShowListImage_Click"/>
-
+               
             </LinearLayout>
 
         </LinearLayout>
