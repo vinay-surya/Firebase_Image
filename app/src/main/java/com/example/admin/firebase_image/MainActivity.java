@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText et_religion;
 
 
-// ranjeet
+    // ranjeet
     private EditText et_name;
     private EditText et_email;
     private EditText et_password;
@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText et_message;
 
     private Uri imgUri;
-
+ /// abcd
 
     public static final String FB_STORAGE_PATH = "image/";
     public static final String FB_DATABASE_PATH = "image";
